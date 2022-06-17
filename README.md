@@ -17,19 +17,19 @@ This section represents a live project where I save some valuable knowledge, lin
 
 #### Feature development 🧠
 
-[<img width="50px" height="50px" alt="ReactJS" src="docs/reactjs/assets/react.svg"/>](docs/reactjs/index.md)
+[<img width="50px" height="50px" alt="ReactJS" src="docs/reactjs/assets/logo.svg"/>](docs/reactjs/index.md)
 [<img width="50px" height="50px" alt="Angular" src="https://raw.githubusercontent.com/angular/angular/main/aio/src/assets/images/logos/angular/angular.png"/>](docs/angular/index.md)
-[<img width="50px" height="40px" alt="Vue" src="docs/vue/assets/vue-logo.svg"/>](docs/vue/index.md)
-[<img width="50px" height="43px" alt="Svelte" src="docs/svelte/assets/svelte-logo.svg"/>](docs/svelte/index.md)
+[<img width="50px" height="40px" alt="Vue" src="docs/vue/assets/logo.svg"/>](docs/vue/index.md)
+[<img width="50px" height="43px" alt="Svelte" src="docs/svelte/assets/logo.svg"/>](docs/svelte/index.md)
 [<img  height="45px" alt="EmberJS" src="https://raw.githubusercontent.com/emberjs/website/master/source/images/brand/ember_Ember-Light.png"/>](docs/emberjs/index.md)
 
 #### Styling 💅
 
-- [TailWindCSS](docs/tailwind/index.md)
-- [Bootstrap](docs/bootstrap/index.md)
-- [Sass](docs/sass/index.md)
-- [Styled Components](docs/styled_components/index.md)
-- [MUI](docs/mui/index.md)
+[<img width="50px" height="50px" alt="TailWindCSS" src="docs/tailwind/assets/logo.svg"/>](docs/tailwind/index.md)
+[<img width="50px" height="50px" alt="Bootstrap" src="docs/bootstrap/assets/logo.svg"/>](docs/bootstrap/index.md)
+[<img width="50px" height="50px" alt="Sass" src="docs/sass/assets/logo.svg"/>](docs/sass/index.md)
+[<img width="50px" height="50px" alt="Styled Components" src="docs/styled_components/assets/logo.svg"/>](docs/styled_components/index.md)
+[<img width="50px" height="50px" alt="MUI" src="docs/mui/assets/logo.svg"/>](docs/mui/index.md)
 
 #### Server side rendering 🧐
 
