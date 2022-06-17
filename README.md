@@ -17,11 +17,11 @@ This section represents a live project where I save some valuable knowledge, lin
 
 #### Feature development 🧠
 
-- [React](docs/reactjs/index.md)
-- [Angular](docs/angular/index.md)
-- [Vue](docs/vue/index.md)
-- [Svelte-Kit](docs/svelte/index.md)
-- [EmberJS](docs/emberjs/index.md)
+[<img width="50px" height="50px" alt="ReactJS" src="docs/reactjs/assets/react.svg"/>](docs/reactjs/index.md)
+[<img width="50px" height="50px" alt="Angular" src="https://raw.githubusercontent.com/angular/angular/main/aio/src/assets/images/logos/angular/angular.png"/>](docs/angular/index.md)
+[<img width="50px" height="40px" alt="Vue" src="docs/vue/assets/vue-logo.svg"/>](docs/vue/index.md)
+[<img width="50px" height="43px" alt="Svelte" src="docs/svelte/assets/svelte-logo.svg"/>](docs/svelte/index.md)
+[<img  height="45px" alt="EmberJS" src="https://raw.githubusercontent.com/emberjs/website/master/source/images/brand/ember_Ember-Light.png"/>](docs/emberjs/index.md)
 
 #### Styling 💅
 
