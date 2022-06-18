@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @alannungaray
 - 👀 I’m interested in F.I.R.E and Health projects.
-- 🌱 I’m currently working with Fullstack JS and other misterious languages
+- 🌱 I’m  working with Fullstack JS and other misterious languages
 - 📫 You can find me on https://www.linkedin.com/in/alannungaraydev/ and [https://alannungaray.com/](https://alannungaray.vercel.app/)
 
 <!---
@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# 💘Technologies that I love.💘 
+# 💘 Technologies that I love. 
 
 <img alt="I love coding" src="public/assets/flame-fire.gif">
 
@@ -19,7 +19,7 @@ This section represents a live project where I save some valuable knowledge, lin
 
 <hr/>
 
-### 🧠Feature development🧠 
+### 🧠 Feature development
 
 [<img height="50px" alt="ReactJS" src="docs/reactjs/assets/logo.svg"/>](docs/reactjs/index.md)
 [<img height="50px" alt="Angular" src="https://raw.githubusercontent.com/angular/angular/main/aio/src/assets/images/logos/angular/angular.png"/>](docs/angular/index.md)
@@ -29,7 +29,7 @@ This section represents a live project where I save some valuable knowledge, lin
 
 <hr/>
 
-### 💅Styling💅 
+### 💅 Styling
 
 [<img  height="50px" alt="TailWindCSS" src="docs/tailwind/assets/logo.svg"/>](docs/tailwind/index.md)
 [<img  height="50px" alt="Bootstrap" src="docs/bootstrap/assets/logo.svg"/>](docs/bootstrap/index.md)
@@ -39,17 +39,17 @@ This section represents a live project where I save some valuable knowledge, lin
 
 <hr/>
 
-### 🧐Server side rendering🧐 
+### 🚀 Server side rendering
 
 [<img  height="50px" alt="Remix" src="docs/remix/assets/logo.svg"/>](docs/remix/index.md)
 [<img  height="50px" alt="Next" src="docs/nextjs/assets/logo.svg"/>](docs/nextjs/index.md)
 [<img  height="50px" alt="Gatsby" src="docs/gatsby/assets/logo.svg"/>](docs/gatsby/index.md)
-[<img height="50px" alt="Angular Universal" src="https://raw.githubusercontent.com/angular/angular/main/aio/src/assets/images/logos/angular/angular.png"/>](docs/angular_universal/index.md)
-[<img height="50px" alt="Nuxt" src="docs/nuxtjs/assets/logo.svg"/>](docs/nuxtjs/index.md)
+[<img  height="50px" alt="Angular Universal" src="https://raw.githubusercontent.com/angular/angular/main/aio/src/assets/images/logos/angular/angular.png"/>](docs/angular_universal/index.md)
+[<img  height="50px" alt="Nuxt" src="docs/nuxtjs/assets/logo.svg"/>](docs/nuxtjs/index.md)
 
 <hr/>
 
-### 💌API Services💌 
+### 💌 API Services
 
 [<img height="50px" alt="GO" src="docs/go/assets/logo.svg"/>](docs/go/index.md)
 [<img height="50px" alt="Hapi" src="docs/hapi/assets/logo.svg"/>](docs/hapi/index.md)
@@ -64,7 +64,7 @@ This section represents a live project where I save some valuable knowledge, lin
 
 <hr/>
 
-### 💻general use💻 
+### 💻 General use
 
  [<img height="50px" alt="JavaScript" src="docs/typescript/assets/logo-js.svg"/>](docs/typescript/index.md)
  [<img height="50px" alt="Rust" src="docs/rust/assets/logo.svg"/>](docs/rust/index.md)
@@ -79,7 +79,7 @@ This section represents a live project where I save some valuable knowledge, lin
 
 <hr/>
 
-### 📃Databases📃 
+### 📃 Databases 
 
  [<img  height="50px" alt="MariaDB" src="docs/mariadb/assets/logo.svg"/>](docs/mariadb/index.md)
  [<img  height="50px" alt="PostgreSQL" src="docs/postgresql/assets/logo.svg"/>](docs/postgresql/index.md)
@@ -90,7 +90,7 @@ This section represents a live project where I save some valuable knowledge, lin
 
 <hr/>
 
-### 🛠Tools🛠 
+### 🛠 Tools
 
  [<img  height="50px" alt="Docker" src="docs/docker/assets/logo.svg"/>](docs/docker/index.md)
  [<img  height="50px" alt="Git" src="docs/git/assets/logo.svg"/>](docs/git/index.md)
@@ -102,7 +102,7 @@ This section represents a live project where I save some valuable knowledge, lin
 
 <hr/>
 
-### ☁☁CLOUD☁☁
+### ☁ CLOUD
 
  [<img  height="50px" alt="Azure" src="docs/azure/assets/logo.svg"/>](docs/azure/index.md)
  [<img  height="50px" alt="AWS" src="docs/aws/assets/logo.svg"/>](docs/aws/index.md)
