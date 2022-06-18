@@ -17,12 +17,17 @@ You can click the Preview link to take a look at your changes.
 
 This section represents a live project where I save some valuable knowledge, links and annotations that helps me on my daily work. 
 
+<hr/>
+
 ### 🧠Feature development🧠 
+
 [<img height="50px" alt="ReactJS" src="docs/reactjs/assets/logo.svg"/>](docs/reactjs/index.md)
 [<img height="50px" alt="Angular" src="https://raw.githubusercontent.com/angular/angular/main/aio/src/assets/images/logos/angular/angular.png"/>](docs/angular/index.md)
 [<img height="42px" alt="Vue" src="docs/vue/assets/logo.svg"/>](docs/vue/index.md)
 [<img height="50px" alt="Svelte" src="docs/svelte/assets/logo.svg"/>](docs/svelte/index.md)
 [<img height="50px" alt="EmberJS" src="https://raw.githubusercontent.com/emberjs/website/master/source/images/brand/ember_Ember-Light.png"/>](docs/emberjs/index.md)
+
+<hr/>
 
 ### 💅Styling💅 
 
@@ -32,12 +37,17 @@ This section represents a live project where I save some valuable knowledge, lin
 [<img  height="50px" alt="Styled Components" src="docs/styled_components/assets/logo.svg"/>](docs/styled_components/index.md)
 [<img  height="50px" alt="MUI" src="docs/mui/assets/logo.svg"/>](docs/mui/index.md)
 
+<hr/>
+
 ### 🧐Server side rendering🧐 
+
 [<img  height="50px" alt="Remix" src="docs/remix/assets/logo.svg"/>](docs/remix/index.md)
 [<img  height="50px" alt="Next" src="docs/nextjs/assets/logo.svg"/>](docs/nextjs/index.md)
 [<img  height="50px" alt="Gatsby" src="docs/gatsby/assets/logo.svg"/>](docs/gatsby/index.md)
 [<img height="50px" alt="Angular Universal" src="https://raw.githubusercontent.com/angular/angular/main/aio/src/assets/images/logos/angular/angular.png"/>](docs/angular_universal/index.md)
 [<img height="50px" alt="Nuxt" src="docs/nuxtjs/assets/logo.svg"/>](docs/nuxtjs/index.md)
+
+<hr/>
 
 ### 💌API Services💌 
 
@@ -51,6 +61,9 @@ This section represents a live project where I save some valuable knowledge, lin
 [<img height="50px" alt="LOOPBACK" src="docs/loopback/assets/logo.svg"/>](docs/loopback/index.md)
 [<img height="50px" alt="Fastify" src="docs/fastify/assets/logo.svg"/>](docs/fastify/index.md)
 [<img height="50px" alt="Django" src="docs/django/assets/logo.svg"/>](docs/django/index.md)
+
+<hr/>
+
 ### 💻general use💻 
 
  [<img height="50px" alt="JavaScript" src="docs/typescript/assets/logo-js.svg"/>](docs/typescript/index.md)
@@ -64,6 +77,8 @@ This section represents a live project where I save some valuable knowledge, lin
  [<img height="50px" alt="Typescript" src="docs/typescript/assets/logo.svg"/>](docs/typescript/index.md)
 
 
+<hr/>
+
 ### 📃Databases📃 
 
  [<img  height="50px" alt="MariaDB" src="docs/mariadb/assets/logo.svg"/>](docs/mariadb/index.md)
@@ -72,6 +87,8 @@ This section represents a live project where I save some valuable knowledge, lin
  [<img  height="50px" alt="DynamoDB" src="docs/dynamo/assets/logo.svg"/>](docs/dynamo/index.md)
  [<img  height="50px" alt="CosmosDB" src="docs/cosmos/assets/logo.png"/>](docs/cosmos/index.md)
 [<img  height="50px" alt="Firebase" src="docs/firebase/assets/logo.svg"/>](docs/firebase/index.md)
+
+<hr/>
 
 ### 🛠Tools🛠 
 
@@ -83,9 +100,13 @@ This section represents a live project where I save some valuable knowledge, lin
  [<img  height="50px" alt="Vite" src="docs/vite/assets/logo.svg"/>](docs/vite/index.md)
  [<img  height="50px" alt="Webpack" src="docs/webpack/assets/logo.svg"/>](docs/webpack/index.md)
 
+<hr/>
+
 ### ☁☁CLOUD☁☁
 
  [<img  height="50px" alt="Azure" src="docs/azure/assets/logo.svg"/>](docs/azure/index.md)
  [<img  height="50px" alt="AWS" src="docs/aws/assets/logo.svg"/>](docs/aws/index.md)
  [<img  height="50px" alt="Vercel" src="docs/vercel/assets/logo.png"/>](docs/vercel/index.md)
  [<img  height="50px" alt="Netlify" src="docs/netlify/assets/logo.svg"/>](docs/netlify/index.md)
+
+<hr/>
