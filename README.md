@@ -1,6 +1,8 @@
 <p width="100%" align="center">
 <img  width="400px" alt="Alan Nungaray" src="public/assets/logo.svg">
 <p/>
+
+
 - 👋 Hi, I’m @alannungaray
 - 👀 I’m interested in F.I.R.E and Health projects.
 - 🌱 I’m  working with Fullstack JS and other misterious languages
