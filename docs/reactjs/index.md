@@ -3,8 +3,9 @@
 - [Official Docs](https://reactjs.org/docs/react-api.html)
 
 #### Courses And Tutorials 
--[Zero To Mastery](https://zerotomastery.io/courses/learn-react/)
--[Epic React](https://epicreact.dev/)
+
+- [Zero To Mastery](https://zerotomastery.io/courses/learn-react/)
+- [Epic React](https://epicreact.dev/)
 
 
 #### Security
