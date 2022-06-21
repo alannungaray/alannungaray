@@ -1,5 +1,5 @@
 <p width="100%" align="center">
-<img  width="400px" alt="Alan Nungaray" src="public/assets/logo.svg">
+<img  width="400px" alt="Alan Nungaray" src="./public/assets/logo.svg">
 <p/>
 
 
@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 # 💘 Technologies that I love. 
 
-<img alt="I love coding" src="public/assets/flame-fire.gif">
+<img alt="I love coding" src="./public/assets/flame-fire.gif">
 
 This section represents a live project where I save some valuable knowledge, links and annotations that helps me on my daily work. 
 
