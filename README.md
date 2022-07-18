@@ -6,7 +6,7 @@
 - 👋 Hi, I’m [@alannungaray](./me/index.md)
 - 👀 I’m interested in F.I.R.E and Health projects.
 - 🌱 I’m  working with Fullstack JS and other misterious languages
-- 📫 You can find me on https://www.linkedin.com/in/alannungaraydev/ and [https://alannungaray.com/](https://alannungaray.vercel.app/)
+- 📫 You can find me on [Linkedin](https://www.linkedin.com/in/alannungaraydev/) and [My site](https://alannungaray.dev/)
 
 <!---
 alannungaray/alannungaray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
