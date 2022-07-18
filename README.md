@@ -1,6 +1,6 @@
 <p width="100%" align="center">
 <img  width="400px" alt="Alan Nungaray" src="./public/assets/logo.svg">
-<p/>
+</p>
 
 
 - 👋 Hi, I’m [@alannungaray](./me/index.md)
